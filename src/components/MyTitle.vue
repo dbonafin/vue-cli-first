@@ -15,7 +15,7 @@ export default {
 
 <style>
 h1 {
-    color: brown;
+    color: darkgreen;
 }
 
 </style>
